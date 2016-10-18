@@ -19,7 +19,7 @@ zip的特点就是压缩速度快，相对来说压缩率就比较小了。
 
 > * `zip -d name.zip file/directories`
 
----
+----
 
 ## tar格式
 tar 命令详解
