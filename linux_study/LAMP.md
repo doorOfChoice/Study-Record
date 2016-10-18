@@ -4,12 +4,12 @@
 
 ## 安装Apache2
 > * `sudo apt-get update`
-> * `sudo apt-get apache2`
+> * `sudo apt-get install apache2`
 
 然后根据流程安装apache2, linux下的apache2安装十分的简单。
 
 ## 安装Mysql
-> * `sudo apt-get mysql-server`
+> * `sudo apt-get install mysql-server`
 
 Mysql会让你设置root的密码，让你拥有最高的权限。
 
@@ -21,7 +21,7 @@ Mysql会让你设置root的密码，让你拥有最高的权限。
 > * `mysql -u user -h ip -p password`
 
 ## 安装php
-> * `sudo apt-get php`
+> * `sudo apt-get install php`
 
 这会让你安装php的最新版本
 
