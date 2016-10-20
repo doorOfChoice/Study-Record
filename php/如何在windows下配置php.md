@@ -46,6 +46,8 @@
   打开 **php.ini**，找到extension_dir, 将其改为
   > * 实际路径/etc
 
+  找到**;extension=php_mysql.dll**， 将其前面的分号去掉
+
   现在可以在 /Apache/htdocs 目录下放置你的主页了，你的php等等文件.
 
   ## Mysql
